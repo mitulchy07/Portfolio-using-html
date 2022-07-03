@@ -1,3 +1,23 @@
-p{
-     color: black;
+body{
+     font-family: 'Splash', cursive;
+}
+
+h1{
+     font-size: 100px;
+}
+
+.chocolate-color{
+     color: chocolate;
+}
+
+section{
+     display: flex;
+}
+
+.half-width{
+     width: 50%;
+     padding-left: 5% ;
+}
+.half-width img{
+     width: 100%;
 }
